@@ -1,0 +1,77 @@
+
+#first{
+    border:none;
+    height:auto;
+    width:500px;
+    position:absolute;
+}
+#first #input1{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline:none;
+    border-bottom: 2px solid black;
+    background:transparent;
+    width:300px;
+    margin:10px;
+}
+#second{
+    border:none;
+    height:auto;
+    width:500px;
+    margin-left:550px;
+}
+#second #input2{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline:none;
+    border-bottom: 2px solid black;
+    background:transparent;
+    width:300px;
+    margin:10px;
+}
+#third{
+    border:none;
+    height:auto;
+    width:800px;
+}
+#third #input3{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline:none;
+    border-bottom: 2px solid black;
+    background:transparent;
+    width:600px;
+    margin:10px;
+}
+.sign .s{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background:transparent;
+    border-bottom: 2px solid #000;
+    width:210px;
+}
+.personal .p {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background:transparent;
+    border-bottom: 2px solid #000;
+    width:210px;
+    margin:10px;
+}
+.office .o{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background:transparent;
+    border-bottom: 2px solid #000;
+    width:240px;
+    margin:10px;
+}
